@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13666" started-at="2020-03-23T01:47:37Z" finished-at="2020-03-23T01:47:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13666" started-at="2020-03-23T01:47:37Z" finished-at="2020-03-23T01:47:51Z">
+      <class name="actionClass.MouseHover">
+        <test-method status="PASS" signature="hover()[pri:0, instance:actionClass.MouseHover@204f30ec]" name="hover" duration-ms="13617" started-at="2020-03-23T01:47:37Z" finished-at="2020-03-23T01:47:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hover -->
+      </class> <!-- actionClass.MouseHover -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
